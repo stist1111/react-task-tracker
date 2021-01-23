@@ -35,7 +35,6 @@ npm i json-server
 
 ```json
 {
-  // db.json 파일예시
   "tasks": [
     {
       "id": 1,
@@ -60,3 +59,5 @@ npm i json-server
 ```
 
 db.json 파일이 위의 예시처럼 되어있을 때 `http://localhost:5000/tasks` 페이지로 가면 db.json의 **tasks 객체** 내용을 볼 수 있다.
+
+#### [video link](https://www.youtube.com/watch?v=w7ejDZ8SWv8&list=WL&index=3)
